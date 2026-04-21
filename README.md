@@ -106,5 +106,5 @@ Drill-down capabilities for detailed match insights
 * Player statistics dashboard
 * Match analysis visuals
 
----
+- https://github.com/jothishankar2778-dot/IPL-2020-2025-Dashboards/blob/main/Screenshot%20(96).png
 
